@@ -1,1 +1,2 @@
-# exercises
+# DEEP LEARNING CHECKPOINT
+
